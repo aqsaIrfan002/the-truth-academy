@@ -2,7 +2,7 @@ export const casesData = [
   {
     id: 1,
     title: "Is Pop Star Aria Missing? Sources Say No One Has Seen Her in Weeks.",
-    image: "/images/TTACase-1.png",
+    image: "./images/TTACase-1.png",
     content: "Concerns are growing among fans of pop star Aria after her social media went silent and her team canceled several public appearances. An anonymous source close to her team says she hasn't been seen at her usual recording studio in two weeks. Fans on social media are using the hashtag #FindAria and speculating about her whereabouts.",
     detectiveTools: {
       source: "This article is from \"The Celebrity Tea,\" a blog. Their motto is \"Spilling the secrets, one rumor at a time.\" They cover a lot of celebrity gossip.",
@@ -16,7 +16,7 @@ export const casesData = [
   {
     id: 2,
     title: "Officer Fatally Shoots Armed Suspect During Drug Raid.",
-    image: "/images/TTACase-2.png",
+    image: "./images/TTACase-2.png",
     content: "A 28-year-old man was killed this morning during a narcotics raid at an apartment complex. According to Police Chief Santos, officers encountered an armed individual who posed an \"immediate threat.\" A handgun was recovered at the scene.",
     detectiveTools: {
       source: "The article is from the Metro Daily Herald, a long-standing local newspaper. They're a credible source, but their crime reporting often aligns closely with police department press releases.",
@@ -30,7 +30,7 @@ export const casesData = [
   {
     id: 3,
     title: "GDP Growth Hits 4.2% as Economic Recovery Accelerates.",
-    image: "/images/TTACase-3.png",
+    image: "./images/TTACase-3.png",
     content: "The U.S. economy expanded at an annualized rate of 4.2% in the third quarter, exceeding economists' expectations and marking the strongest growth in two years, the Commerce Department reported today. The robust performance was driven by increased consumer spending and business investment.",
     detectiveTools: {
       source: "The article is from the Financial Times, a major, highly respected financial newspaper. It's known for its accurate business and economic news.",
@@ -44,7 +44,7 @@ export const casesData = [
   {
     id: 4,
     title: "Protestors Demand Government Resignations.",
-    image: "/images/TTACase-4.png",
+    image: "./images/TTACase-4.png",
     content: "A large group of protestors gathered today in front of City Hall, calling for the immediate resignation of several high-ranking government officials. The protest was organized by the \"Citizens for Accountability\" group, which accused the officials of financial mismanagement. The police were on the scene, maintaining order.",
     detectiveTools: {
       source: "The article is from \"The Daily Herald,\" a well-known local newspaper with a reputation for balanced reporting and investigative journalism.",
@@ -58,7 +58,7 @@ export const casesData = [
   {
     id: 5,
     title: "Stadium Roof Collapses During Renovation, Injuring Dozens.",
-    image: "/images/TTACase-5.png",
+    image: "./images/TTACase-5.png",
     content: "According to City Chronicle, a section of the Eastside Arena's roof collapsed during ongoing renovations, injuring 20 construction workers. An anonymous worker told reporters that the company \"cut corners on safety.\"",
     detectiveTools: {
       source: "The City Chronicle is a small local paper, generally reliable, but often publishes breaking news before full confirmation. City officials issued a statement the same day confirming minor debris fell at the stadium.",
@@ -72,7 +72,7 @@ export const casesData = [
   {
     id: 6,
     title: "Over 5,000 Jobs Cut as Tech Giant Moves Operations Overseas.",
-    image: "/images/TTACase-6.png",
+    image: "./images/TTACase-6.png",
     content: "According to a report from Business Insider Weekly, tech company \"NovaSystems\" announced it will move manufacturing to another country, cutting 5,000 jobs in the U.S. The article cites an \"internal memo\" leaked by an employee. Employees are said to feel \"betrayed\" and fear entire offices may close.",
     detectiveTools: {
       source: "Business Insider Weekly is a mid-sized online financial news outlet. They have reported accurately in the past but have also walked back stories when relying on leaks. Hours later, NovaSystems' official press release confirmed some restructuring.",
@@ -86,7 +86,7 @@ export const casesData = [
   {
     id: 7,
     title: "Many Students Hospitalized After Eating Spoiled Lunch at Local School.",
-    image: "/images/TTACase-7.png",
+    image: "./images/TTACase-7.png",
     content: "A viral post claims that a large group of students at Westbrook Middle School were rushed to the hospital after being served spoiled chicken nuggets. The story is from Neighborhood Watch News, citing \"concerned parents\" and unnamed eyewitnesses.",
     detectiveTools: {
       source: "Neighborhood Watch News is a volunteer-run community blog that often reposts social media rumors without independent verification.",
@@ -100,7 +100,7 @@ export const casesData = [
   {
     id: 8,
     title: "Local Teen Rescues Child From Flooded River — A Hero is Born!",
-    image: "/images/TTACase-8.png",
+    image: "./images/TTACase-8.png",
     content: "The Springfield Gazette reports that 16-year-old Maya Lopez dove into the raging East Fork River after spotting a small child being swept away by floodwaters. Witnesses described the moment as \"like something from a movie,\" with Maya clinging to the child in the powerful current until firefighters reached them. Some onlookers are already calling her the town's \"young hero.\"",
     detectiveTools: {
       source: "The Springfield Gazette is the town's established daily newspaper, with a reputation for reliable local reporting although it has been accused of exaggerating local stories.",
@@ -114,7 +114,7 @@ export const casesData = [
   {
     id: 9,
     title: "Fans Fear Influencer Luna Vega Was Kidnapped During Livestream.",
-    image: "/images/TTACase-9.png",
+    image: "./images/TTACase-9.png",
     content: "During a late-night livestream, popular influencer Luna Vega suddenly went silent before the video cut off. Her followers claim they heard a man's voice say, \"We have her.\" Panic spread across TikTok, with the hashtag #SaveLuna trending worldwide. Some fans claim she looked distressed in her last post earlier that day.",
     detectiveTools: {
       source: "The story appears on BuzzClick, a viral news site known for recycling fan rumors without direct verification.",
@@ -128,7 +128,7 @@ export const casesData = [
   {
     id: 10,
     title: "Hollywood Star Dante Cruz Arrested for Money Laundering Ties.",
-    image: "/images/TTACase-10.png",
+    image: "./images/TTACase-10.png",
     content: "A shocking twist has emerged as Hollywood A-lister Dante Cruz was allegedly arrested last night at a Miami nightclub. Multiple Twitter users posted blurry photos showing Cruz in handcuffs, surrounded by police. Sources claim the arrest is linked to an ongoing FBI probe into money laundering operations involving celebrity-owned nightclubs.",
     detectiveTools: {
       source: "The article comes from Daily Exposé, a scandal site known for exaggeration, but on rare occasions it breaks stories that later match official police reports.",
@@ -142,7 +142,7 @@ export const casesData = [
   {
     id: 11,
     title: "Tech Billionaire Secretly Buys Majority of National Newspaper.",
-    image: "/images/TTACase-11.png",
+    image: "./images/TTACase-11.png",
     content: "In a shocking twist, leaked financial documents suggest billionaire CEO Victor Han has acquired a controlling stake in The National Chronicle, the country's largest newspaper. Critics warn this could give him massive influence over politics and public opinion. Neither Han nor the newspaper has issued a statement yet.",
     detectiveTools: {
       source: "Published by Financial Wire Online, a niche finance blog. While often speculative, it occasionally catches real scoops by digging into regulatory filings.",
@@ -156,7 +156,7 @@ export const casesData = [
   {
     id: 12,
     title: "Scientists Say Smaller Ozone Hole Means UV Risk Is Over.",
-    image: "/images/TTACase-12.png",
+    image: "./images/TTACase-12.png",
     content: "A climate blog reports that since satellite images show the Antarctic ozone hole was slightly smaller this year compared to last, experts believe harmful UV rays are no longer a danger. The article suggests that sunscreen use could even become \"less essential\" in the future.",
     detectiveTools: {
       source: "Published by SkyHealth Weekly, a lifestyle blog that occasionally cites real scientific reports but often simplifies them. No direct NASA or WHO confirmation in this piece.",

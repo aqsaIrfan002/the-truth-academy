@@ -2,7 +2,7 @@ export const casesData = [
   {
     id: 1,
     title: "Is Pop Star Aria Missing? Sources Say No One Has Seen Her in Weeks.",
-    image: "./images/TTACase-1.png",
+    image: "images/TTACase-1.png",
     content: "Concerns are growing among fans of pop star Aria after her social media went silent and her team canceled several public appearances. An anonymous source close to her team says she hasn't been seen at her usual recording studio in two weeks. Fans on social media are using the hashtag #FindAria and speculating about her whereabouts.",
     detectiveTools: {
       source: "This article is from \"The Celebrity Tea,\" a blog. Their motto is \"Spilling the secrets, one rumor at a time.\" They cover a lot of celebrity gossip.",

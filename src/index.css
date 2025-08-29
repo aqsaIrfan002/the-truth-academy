@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('/fonts/PlayfairDisplay-SemiBold.ttf') format('truetype');
+  font-weight: 600; 
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('/fonts/PlayfairDisplay-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('/fonts/EBGaramond-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root{
+  min-height: 100vh; 
+  overflow-y: auto; 
+
+  /* Scrollbar hiding for different browsers */
+  scrollbar-width: none; 
+  -ms-overflow-style: none;  
+}
+
+:root::-webkit-scrollbar {
+  display: none; 
+}
+
+body {
+  font-family: 'Playfair Display', sans-serif;
+  color: #332924;
+}
+
+h1 {
+  font-family: 'Playfair Display', sans-serif;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: 'Playfair Display', sans-serif;
+  font-weight: 600;
+}
+
+p {
+  font-family: 'EB Garamond', sans-serif;
+}
+
+button {
+  font-family: 'Playfair Display', sans-serif;
+  font-weight: 600;
+}

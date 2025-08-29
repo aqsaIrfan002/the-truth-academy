@@ -118,7 +118,7 @@ const App = () => {
     <div className="min-h-screen bg-[#FAF8F0]">
       {/* Header */}
       <header className="flex justify-between items-center p-6 border-b-2 border-[#332924]">
-        <img src='/images/menu.png' alt="Info Icon" className="w-9 h-9" />
+        <img src='images/menu.png' alt="Info Icon" className="w-9 h-9" />
         <h1 className="text-4xl font-bold text-[#332924] font-['Playfair Display']">
           THE TRUTH ACADEMY
         </h1>
